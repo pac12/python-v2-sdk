@@ -18,7 +18,7 @@ these steps on the console:
 
 4. Create an OoyalaAPI object by passing your V2 API keys:
 
-  >>> api = OoyalaAPI("<Your Secret Key>", "<Your API Key>")
+  >>> api = OoyalaAPI("<Your API Key>", "<Your Secret Key>")
   
 5. Get all assets having the "Funny dogs" label:
 
