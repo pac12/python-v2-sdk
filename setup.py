@@ -6,7 +6,7 @@ setup(
     author='Mark Kramer',
     author_email='mkramer@pac-12.org',
     packages=['ooyala',],
-    scripts=['],
+    scripts=[''],
     license='',
     description='Ooyala API Client.',
     long_description=open('README').read(),
